@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\bin\Debug\HoaDon.exe.config
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\bin\Debug\HoaDon.exe
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\bin\Debug\HoaDon.pdb
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\obj\Debug\HoaDon.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\obj\Debug\HoaDon.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\obj\Debug\HoaDon.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\obj\Debug\HoaDon.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\obj\Debug\HoaDon.exe
+C:\Users\TiBon\Desktop\WinForm\HoaDon\HoaDon\obj\Debug\HoaDon.pdb

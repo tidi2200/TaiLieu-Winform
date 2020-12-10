@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\bin\Debug\GiaiPhuongTinh.exe.config
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\bin\Debug\GiaiPhuongTinh.exe
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\bin\Debug\GiaiPhuongTinh.pdb
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\obj\Debug\GiaiPhuongTinh.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\obj\Debug\GiaiPhuongTinh.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\obj\Debug\GiaiPhuongTinh.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\obj\Debug\GiaiPhuongTinh.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\obj\Debug\GiaiPhuongTinh.exe
+C:\Users\TiBon\Desktop\WinForm\GiaiPhuongTinh\GiaiPhuongTinh\obj\Debug\GiaiPhuongTinh.pdb

@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\bin\Debug\DuyetAnh.exe.config
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\bin\Debug\DuyetAnh.exe
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\bin\Debug\DuyetAnh.pdb
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\obj\Debug\DuyetAnh.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\obj\Debug\DuyetAnh.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\obj\Debug\DuyetAnh.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\obj\Debug\DuyetAnh.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\obj\Debug\DuyetAnh.exe
+C:\Users\TiBon\Desktop\WinForm\DuyetAnh\DuyetAnh\obj\Debug\DuyetAnh.pdb

@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe.config
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.pdb
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.exe
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.pdb
+C:\Users\TiBon\Desktop\WinForm\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.form1.resources

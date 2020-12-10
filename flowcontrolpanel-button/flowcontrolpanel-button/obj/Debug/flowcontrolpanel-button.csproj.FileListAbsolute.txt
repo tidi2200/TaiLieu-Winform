@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\bin\Debug\flowcontrolpanel-button.exe.config
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\bin\Debug\flowcontrolpanel-button.exe
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\bin\Debug\flowcontrolpanel-button.pdb
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\obj\Debug\flowcontrolpanel-button.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\obj\Debug\flowcontrolpanel_button.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\obj\Debug\flowcontrolpanel_button.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\obj\Debug\flowcontrolpanel-button.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\obj\Debug\flowcontrolpanel-button.exe
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel-button\flowcontrolpanel-button\obj\Debug\flowcontrolpanel-button.pdb

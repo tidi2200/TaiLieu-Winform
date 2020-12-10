@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\bin\Debug\XuLyPhepToan.exe.config
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\obj\Debug\XuLyPhepToan.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\obj\Debug\XuLyPhepToan.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\obj\Debug\XuLyPhepToan.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\obj\Debug\XuLyPhepToan.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\bin\Debug\XuLyPhepToan.exe
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\bin\Debug\XuLyPhepToan.pdb
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\obj\Debug\XuLyPhepToan.exe
+C:\Users\TiBon\Desktop\WinForm\XuLyPhepToan\XuLyPhepToan\obj\Debug\XuLyPhepToan.pdb

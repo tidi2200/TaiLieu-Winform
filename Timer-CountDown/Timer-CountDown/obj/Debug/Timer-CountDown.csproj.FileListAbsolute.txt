@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\bin\Debug\Timer-CountDown.exe.config
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\bin\Debug\Timer-CountDown.exe
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\bin\Debug\Timer-CountDown.pdb
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\obj\Debug\Timer-CountDown.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\obj\Debug\Timer_CountDown.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\obj\Debug\Timer_CountDown.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\obj\Debug\Timer-CountDown.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\obj\Debug\Timer-CountDown.exe
+C:\Users\TiBon\Desktop\WinForm\Timer-CountDown\Timer-CountDown\obj\Debug\Timer-CountDown.pdb

@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.exe.config
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.exe
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.pdb
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.exe
+C:\Users\TiBon\Desktop\WinForm\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.pdb

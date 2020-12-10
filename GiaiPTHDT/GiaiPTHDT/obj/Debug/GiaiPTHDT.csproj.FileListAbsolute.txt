@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\bin\Debug\GiaiPTHDT.exe.config
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\bin\Debug\GiaiPTHDT.exe
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\bin\Debug\GiaiPTHDT.pdb
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\obj\Debug\GiaiPTHDT.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\obj\Debug\GiaiPTHDT.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\obj\Debug\GiaiPTHDT.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\obj\Debug\GiaiPTHDT.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\obj\Debug\GiaiPTHDT.exe
+C:\Users\TiBon\Desktop\WinForm\GiaiPTHDT\GiaiPTHDT\obj\Debug\GiaiPTHDT.pdb

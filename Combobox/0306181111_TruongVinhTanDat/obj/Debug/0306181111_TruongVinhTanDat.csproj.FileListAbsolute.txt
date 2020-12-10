@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\bin\Debug\0306181111_TruongVinhTanDat.exe.config
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\bin\Debug\0306181111_TruongVinhTanDat.exe
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\bin\Debug\0306181111_TruongVinhTanDat.pdb
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\obj\Debug\0306181111_TruongVinhTanDat.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\obj\Debug\_0306181111_TruongVinhTanDat.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\obj\Debug\_0306181111_TruongVinhTanDat.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\obj\Debug\0306181111_TruongVinhTanDat.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\obj\Debug\0306181111_TruongVinhTanDat.exe
+C:\Users\TiBon\Desktop\WinForm\0306181111_TruongVinhTanDat\0306181111_TruongVinhTanDat\obj\Debug\0306181111_TruongVinhTanDat.pdb

@@ -1,0 +1,14 @@
+D:\MoHinh3Tang\BEL\bin\Debug\BEL.dll
+D:\MoHinh3Tang\BEL\bin\Debug\BEL.pdb
+D:\MoHinh3Tang\BEL\obj\Debug\BEL.dll
+D:\MoHinh3Tang\BEL\obj\Debug\BEL.pdb
+C:\Users\SV\Desktop\MoHinh3Tang\BEL\bin\Debug\BEL.dll
+C:\Users\SV\Desktop\MoHinh3Tang\BEL\bin\Debug\BEL.pdb
+C:\Users\SV\Desktop\MoHinh3Tang\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\MoHinh3Tang\BEL\obj\Debug\BEL.dll
+C:\Users\SV\Desktop\MoHinh3Tang\BEL\obj\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\WinForm\MoHinh3Tang\BEL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\MoHinh3Tang\BEL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\WinForm\MoHinh3Tang\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\MoHinh3Tang\BEL\obj\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\MoHinh3Tang\BEL\obj\Debug\BEL.pdb

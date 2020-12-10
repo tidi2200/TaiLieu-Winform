@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\bin\Debug\flowcontrolpanel.exe.config
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\bin\Debug\flowcontrolpanel.exe
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\bin\Debug\flowcontrolpanel.pdb
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\obj\Debug\flowcontrolpanel.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\obj\Debug\flowcontrolpanel.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\obj\Debug\flowcontrolpanel.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\obj\Debug\flowcontrolpanel.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\obj\Debug\flowcontrolpanel.exe
+C:\Users\TiBon\Desktop\WinForm\flowcontrolpanel\flowcontrolpanel\obj\Debug\flowcontrolpanel.pdb

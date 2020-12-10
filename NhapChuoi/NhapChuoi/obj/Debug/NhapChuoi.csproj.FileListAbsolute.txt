@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\bin\Debug\NhapChuoi.exe.config
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\bin\Debug\NhapChuoi.exe
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\bin\Debug\NhapChuoi.pdb
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.exe
+C:\Users\TiBon\Desktop\WinForm\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.pdb

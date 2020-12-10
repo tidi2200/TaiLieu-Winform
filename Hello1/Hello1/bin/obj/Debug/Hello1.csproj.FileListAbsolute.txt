@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\bin\Debug\Hello1.exe.config
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\bin\Debug\Hello1.exe
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\bin\Debug\Hello1.pdb
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\obj\Debug\Hello1.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\obj\Debug\Hello1.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\obj\Debug\Hello1.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\obj\Debug\Hello1.exe
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\obj\Debug\Hello1.pdb
+C:\Users\TiBon\Desktop\WinForm\Hello1\Hello1\obj\Debug\Hello1.csprojResolveAssemblyReference.cache

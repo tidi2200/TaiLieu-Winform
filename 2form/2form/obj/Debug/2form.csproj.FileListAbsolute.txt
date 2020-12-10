@@ -1,0 +1,10 @@
+C:\Users\TiBon\Desktop\WinForm\2form\2form\bin\Debug\2form.exe.config
+C:\Users\TiBon\Desktop\WinForm\2form\2form\bin\Debug\2form.exe
+C:\Users\TiBon\Desktop\WinForm\2form\2form\bin\Debug\2form.pdb
+C:\Users\TiBon\Desktop\WinForm\2form\2form\obj\Debug\2form.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\2form\2form\obj\Debug\_2form.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\2form\2form\obj\Debug\_2form.Form2.resources
+C:\Users\TiBon\Desktop\WinForm\2form\2form\obj\Debug\_2form.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\2form\2form\obj\Debug\2form.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\2form\2form\obj\Debug\2form.exe
+C:\Users\TiBon\Desktop\WinForm\2form\2form\obj\Debug\2form.pdb

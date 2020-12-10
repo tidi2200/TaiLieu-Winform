@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\bin\Debug\DemoMenu.exe.config
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\bin\Debug\DemoMenu.exe
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\bin\Debug\DemoMenu.pdb
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\obj\Debug\DemoMenu.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\obj\Debug\DemoMenu.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\obj\Debug\DemoMenu.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\obj\Debug\DemoMenu.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\obj\Debug\DemoMenu.exe
+C:\Users\TiBon\Desktop\WinForm\DemoMenu\DemoMenu\obj\Debug\DemoMenu.pdb

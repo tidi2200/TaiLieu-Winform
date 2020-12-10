@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\bin\Debug\ThemXoaSua.exe.config
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\bin\Debug\ThemXoaSua.exe
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\bin\Debug\ThemXoaSua.pdb
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\obj\Debug\ThemXoaSua.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\obj\Debug\ThemXoaSua.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\obj\Debug\ThemXoaSua.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\obj\Debug\ThemXoaSua.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\obj\Debug\ThemXoaSua.exe
+C:\Users\TiBon\Desktop\WinForm\ThemXoaSua\ThemXoaSua\obj\Debug\ThemXoaSua.pdb

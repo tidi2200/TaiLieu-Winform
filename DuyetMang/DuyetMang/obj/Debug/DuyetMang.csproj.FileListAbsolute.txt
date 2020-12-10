@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\bin\Debug\DuyetMang.exe.config
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\bin\Debug\DuyetMang.exe
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\bin\Debug\DuyetMang.pdb
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\obj\Debug\DuyetMang.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\obj\Debug\DuyetMang.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\obj\Debug\DuyetMang.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\obj\Debug\DuyetMang.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\obj\Debug\DuyetMang.exe
+C:\Users\TiBon\Desktop\WinForm\DuyetMang\DuyetMang\obj\Debug\DuyetMang.pdb

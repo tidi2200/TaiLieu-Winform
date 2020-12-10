@@ -1,0 +1,9 @@
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\bin\Debug\DataGridView_OOP.exe.config
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\obj\Debug\DataGridView_OOP.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\obj\Debug\DataGridView_OOP.Form1.resources
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\obj\Debug\DataGridView_OOP.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\obj\Debug\DataGridView_OOP.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\bin\Debug\DataGridView_OOP.exe
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\bin\Debug\DataGridView_OOP.pdb
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\obj\Debug\DataGridView_OOP.exe
+C:\Users\TiBon\Desktop\WinForm\DataGridView_OOP\DataGridView_OOP\obj\Debug\DataGridView_OOP.pdb
